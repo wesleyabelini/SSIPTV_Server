@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSIPTV_Server", "SSIPTV_Server\SSIPTV_Server.csproj", "{F8C1EB1F-9E51-43E3-9723-7DA040ED7201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C1EB1F-9E51-43E3-9723-7DA040ED7201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C1EB1F-9E51-43E3-9723-7DA040ED7201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C1EB1F-9E51-43E3-9723-7DA040ED7201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C1EB1F-9E51-43E3-9723-7DA040ED7201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4095F4D9-D591-4F9F-B06D-B1F249F26EAF}
+	EndGlobalSection
+EndGlobal
